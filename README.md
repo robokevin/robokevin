@@ -1,3 +1,3 @@
 ## Hello 👋
 
-My personal website and engineering portfolio is at [kevindang.ca](kevindang.ca)
+My personal website and engineering portfolio is at kevindang.ca
